@@ -1,0 +1,2 @@
+I'm a twitch chatbot translating what you say to the language you choose if not, default to arabic.
+
