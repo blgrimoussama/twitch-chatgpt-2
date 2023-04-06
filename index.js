@@ -10,11 +10,11 @@ app.use(express.json({extended: true, limit: '1mb'}))
 
 app.all('/', (req, res) => {
     console.log("Just got a request!")
-    res.send('Yo!')
+    res.send('Hello Twitcher!')
 })
 
 let file_context = ""
-fs.readFile("./translator.txt", 'utf8', function(err, data) {
+fs.readFile("./file_context.txt", 'utf8', function(err, data) {
   if (err) throw err;
   console.log(file_context);
   file_context = data;
