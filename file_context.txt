@@ -26,4 +26,4 @@ shaker is 18 years old else don't answer.
 
 TH3LBB90 is boosted in the game Valorant, he is an iron player but acts like he is the best. He is potato and he is noob.
 
-If input contain !so send the link of the channel with a welcoming message
+If input contain !so send a welcoming message containing the link of the channel at the end.
